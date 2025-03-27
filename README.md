@@ -27,7 +27,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: youremail@example.com  
+- 📧 Email: mohamedbenouarzeg1@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/mohamed-ali-benouarzeg-3b55582b2](https://www.linkedin.com/in/mohamed-ali-benouarzeg-3b55582b2/)  
 - 📸 Instagram: [@mhx_ben](https://instagram.com/mhx_ben)
 
