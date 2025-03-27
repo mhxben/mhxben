@@ -32,9 +32,3 @@
 - 📸 Instagram: [@mhx_ben](https://instagram.com/mhx_ben)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhxben&show_icons=true&theme=radical" alt="stats" />
-</p>
