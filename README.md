@@ -7,17 +7,28 @@
 
 ## 🧰 Tech Stack
 
-
 <p align="center">
-  <img src="https://logo.svgcdn.com/l/java.png" alt="Java" width="60" />
-  <img src="https://logo.svgcdn.com/l/kotlin.png" alt="Kotlin" width="60" />
-  <img src="https://logo.svgcdn.com/d/jetpackcompose-plain.png" alt="Jetpack Compose" width="60" />
-  <img src="https://logo.svgcdn.com/l/kotlin-multiplatform.png" alt="Kotlin Multiplatform (KMP)" width="60" />
-  <img src="https://logo.svgcdn.com/l/compose-multiplatform.png" alt="Compose Multiplatform (CMP)" width="60" />
-  <img src="https://logo.svgcdn.com/l/ktor.png" alt="Ktor" width="60" />
-  <img src="https://logo.svgcdn.com/l/spring.png" alt="Spring Boot" width="60" />
-</p>
+  <!-- Java -->
+  <img src="https://techicons.dev/icons/java.svg" alt="Java" width="60" />
 
+  <!-- Kotlin -->
+  <img src="https://techicons.dev/icons/kotlin.svg" alt="Kotlin" width="60" />
+
+  <!-- Jetpack Compose -->
+  <img src="https://logo.svgcdn.com/d/jetpackcompose-original.png" alt="Jetpack Compose" width="60" />
+
+  <!-- Kotlin Multiplatform (KMP) -->
+  <img src="https://logo.svgcdn.com/l/kotlin-multiplatform.png" alt="Kotlin Multiplatform (KMP)" width="60" />
+
+  <!-- Compose Multiplatform (CMP) - host your own PNG/SVG -->
+  <img src="https://your-repo-url/assets/cmp-logo.png" alt="Compose Multiplatform (CMP)" width="60" />
+
+  <!-- Ktor - host your own PNG/SVG -->
+  <img src="https://your-repo-url/assets/ktor-logo.png" alt="Ktor" width="60" />
+
+  <!-- Spring Boot - host your own PNG/SVG -->
+  <img src="https://your-repo-url/assets/springboot-logo.png" alt="Spring Boot" width="60" />
+</p>
 
 ---
 
