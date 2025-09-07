@@ -10,8 +10,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" width="60" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="60" />
-  <img src="https://developer.android.com/images/jetpack/compose/compose-logo.png" alt="Jetpack Compose" width="60" />
-  <img src="https://logo.svgcdn.com/l/jetpackcompose-original.svg" alt="Jetpack Compose Logo" width="60" />
+  <img src="https://avatars.githubusercontent.com/u/28214161?s=200&v=4" alt="Ktor" width="60" />
   <img src="https://spring.io/img/spring.svg" alt="Spring (Boot)" width="60" />
 </p>
 ---
