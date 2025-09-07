@@ -7,13 +7,14 @@
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="60" height="60" />
-  <img src="https://logo.svgcdn.com/l/compose-multiplatform.png" alt="Compose Multiplatform (CMP)" width="60" height="60" />
-  <img src="https://logo.svgcdn.com/d/jetpackcompose-original.png" alt="Jetpack Compose" width="60" height="60" />
-  <img src="https://logo.svgcdn.com/l/ktor.png" alt="Ktor" width="60" height="60" />
+  <img src="https://logo.svgcdn.com/l/java.png" alt="Java" width="60" />
+  <img src="https://logo.svgcdn.com/l/kotlin.png" alt="Kotlin" width="60" />
+  <img src="https://logo.svgcdn.com/l/jetpackcompose.png" alt="Jetpack Compose" width="60" />
+  <img src="https://logo.svgcdn.com/l/kotlin-multiplatform.png" alt="Kotlin Multiplatform (KMP)" width="60" />
+  <img src="https://logo.svgcdn.com/l/compose-multiplatform.png" alt="Compose Multiplatform (CMP)" width="60" />
+  <img src="https://logo.svgcdn.com/l/ktor.png" alt="Ktor" width="60" />
+  <img src="https://logo.svgcdn.com/l/spring.png" alt="Spring Boot" width="60" />
 </p>
 
 
