@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- Java -->
-  <img src="https://techicons.dev/icons/java.svg" alt="Java" width="60" />
+  <img src="https://techicons.dev/icons/java.svg](https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" width="60" />
 
   <!-- Kotlin -->
   <img src="https://techicons.dev/icons/kotlin.svg" alt="Kotlin" width="60" />
