@@ -7,16 +7,15 @@
 
 ## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="KMP" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/JetBrains/compose-jb/master/artwork/compose-multiplatform-logo.svg" alt="CMP" width="60" height="60"/>
-  <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Jetpack Compose" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/ktorio/ktor/main/.github/logo/ktor-logo.svg" alt="Ktor" width="60" height="60"/>
-  <img src="https://square.github.io/retrofit/static/logo.png" alt="Retrofit" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="60" height="60" />
+  <img src="https://logo.svgcdn.com/l/compose-multiplatform.png" alt="Compose Multiplatform (CMP)" width="60" height="60" />
+  <img src="https://logo.svgcdn.com/d/jetpackcompose-original.png" alt="Jetpack Compose" width="60" height="60" />
+  <img src="https://logo.svgcdn.com/l/ktor.png" alt="Ktor" width="60" height="60" />
 </p>
+
 
 ---
 
