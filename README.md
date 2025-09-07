@@ -8,21 +8,13 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <!-- Kotlin -->
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <!-- Kotlin Multiplatform -->
-  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <!-- Compose Multiplatform -->
-  <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-  <!-- Jetpack Compose -->
+  <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMP-4285F4?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-34A853?style=for-the-badge&logo=android&logoColor=white" />
-  <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <!-- Spring Boot -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <!-- Ktor -->
   <img src="https://img.shields.io/badge/Ktor-1C78C0?style=for-the-badge&logo=ktor&logoColor=white" />
-  <!-- Retrofit -->
   <img src="https://img.shields.io/badge/Retrofit-4CAF50?style=for-the-badge&logo=square&logoColor=white" />
 </p>
 
