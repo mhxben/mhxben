@@ -8,14 +8,14 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMP-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-34A853?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ktor-1C78C0?style=for-the-badge&logo=ktor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-4CAF50?style=for-the-badge&logo=square&logoColor=white" />
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="KMP" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/JetBrains/compose-jb/master/artwork/compose-multiplatform-logo.svg" alt="CMP" width="60" height="60"/>
+  <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Jetpack Compose" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/ktorio/ktor/main/.github/logo/ktor-logo.svg" alt="Ktor" width="60" height="60"/>
+  <img src="https://square.github.io/retrofit/static/logo.png" alt="Retrofit" width="60" height="60"/>
 </p>
 
 ---
