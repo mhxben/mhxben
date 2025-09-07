@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ali Benouarzeg</h1>
+<h1 align="center">I'm Mohamed Ali Benouarzeg</h1>
 <h3 align="center">Native Android & Kotlin Multiplatform Developer</h3>
 
 <p align="center"><em>Building fast, clean, and intuitive apps with Kotlin, Jetpack Compose, and modern backend tools.</em></p>
@@ -7,13 +7,12 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="60" />
-  <img src="https://avatars.githubusercontent.com/u/28214161?s=200&v=4" alt="Ktor" width="60" />
-  <img src="https://spring.io/img/spring.svg" alt="Spring (Boot)" width="60" />
+<p align="start">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" alt="Java" width="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="25" />
+  <img src="https://avatars.githubusercontent.com/u/28214161?s=200&v=4" alt="Ktor" width="25" />
+  <img src="https://spring.io/img/spring.svg" alt="Spring (Boot)" width="25" />
 </p>
----
 
 ## 💡 About Me
 
