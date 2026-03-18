@@ -15,7 +15,7 @@
   <img src="https://user-images.githubusercontent.com/48350702/136327368-98272ce0-a1c5-4b61-89fc-32f2350a84ed.png" width="48" title="Jetpack Compose"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" title="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" title="Spring Boot"/>
-  <img src="https://ktor.io/assets/ktor-logo.svg" width="48" title="Ktor"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Ktor.svg" width="48" title="Ktor"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="48" title="Gradle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" title="Maven"/>
