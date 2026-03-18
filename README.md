@@ -1,107 +1,289 @@
-<!-- Animated typing header via readme-typing-svg -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Mohamed+Ali+Benouarzeg;Android+%26+KMP+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Arch" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Android%20%26%20KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Based_in-Algeria-3DDC84?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open_to-Collaborations-58A6FF?style=flat-square"/>
-</p>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=DM+Sans:wght@400;500;600&display=swap');
 
----
+  .gh-root {
+    background: #0d1117;
+    color: #e6edf3;
+    font-family: 'DM Sans', sans-serif;
+    padding: 2rem 2.5rem;
+    border-radius: 12px;
+    border: 1px solid #21262d;
+    max-width: 780px;
+    margin: 0 auto;
+  }
 
-## `whoami`
+  .mono { font-family: 'JetBrains Mono', monospace; }
 
-> Native Android & Kotlin Multiplatform developer building fast, clean, and intuitive apps.  
-> I care about architecture, UI feel, and writing Kotlin that reads well.
+  .header-line {
+    font-family: 'JetBrains Mono', monospace;
+    color: #58a6ff;
+    font-size: 12px;
+    margin-bottom: 0.25rem;
+    opacity: 0.7;
+  }
 
-- 📱 Specializing in **modern Android** with Kotlin & Jetpack Compose  
-- 🌍 Exploring **KMP / Compose Multiplatform** to write once, run everywhere  
-- 🧠 Building backends with **Ktor** and **Spring Boot**  
-- 🎯 Strong opinions on **MVVM**, **Clean Architecture**, and **StateFlow**
+  .name {
+    font-size: 28px;
+    font-weight: 600;
+    color: #e6edf3;
+    margin: 0 0 4px;
+    letter-spacing: -0.5px;
+  }
 
----
+  .title-tag {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    color: #7ee787;
+    background: rgba(126,231,135,0.1);
+    border: 1px solid rgba(126,231,135,0.25);
+    border-radius: 6px;
+    padding: 3px 10px;
+    display: inline-block;
+    margin-bottom: 1rem;
+  }
 
-## 🧰 Tech Stack
+  .bio {
+    font-size: 14px;
+    color: #8b949e;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    border-left: 2px solid #21262d;
+    padding-left: 12px;
+  }
 
-### Mobile & Multiplatform
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  .section-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: #58a6ff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 1.5rem 0 0.75rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .section-label::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: #21262d;
+  }
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-F0883E?style=for-the-badge&logo=ktor&logoColor=white)
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 1rem;
+  }
 
-### Tooling
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  .skill-pill {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 5px 12px;
+    color: #c9d1d9;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .skill-pill .dot {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+  }
 
----
+  .projects-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
 
-## 🚀 Featured Projects
+  .project-card {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 14px;
+    position: relative;
+    overflow: hidden;
+  }
+  .project-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+  }
+  .project-card.kt::before { background: #7f52ff; }
+  .project-card.kmp::before { background: #58a6ff; }
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📦 ComposeKit</h3>
-      <p>Reusable Jetpack Compose UI component library following Material 3 design principles.</p>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-    </td>
-    <td width="50%">
-      <h3>🗒️ NoteFlow-KMP</h3>
-      <p>Cross-platform notes app built with Kotlin Multiplatform and Compose Multiplatform.</p>
-      <img src="https://img.shields.io/badge/KMP-58A6FF?style=flat-square&logo=kotlin&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ KtorAPI-Starter</h3>
-      <p>Production-ready Ktor backend template with auth, routing, and PostgreSQL integration.</p>
-      <img src="https://img.shields.io/badge/Ktor-F0883E?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>🌤️ WeatherNow</h3>
-      <p>Clean Android weather app showcasing MVVM, Retrofit, and StateFlow architecture.</p>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+  .project-name {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: #58a6ff;
+    margin-bottom: 4px;
+  }
+  .project-desc {
+    font-size: 12px;
+    color: #8b949e;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  .project-meta {
+    display: flex;
+    gap: 12px;
+    font-size: 11px;
+    font-family: 'JetBrains Mono', monospace;
+    color: #6e7681;
+    align-items: center;
+  }
+  .lang-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+  }
 
-> 💡 Replace placeholder projects above with your real repos and link them!
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-top: 0.75rem;
+  }
+  .stat-box {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 12px;
+    text-align: center;
+  }
+  .stat-num {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 20px;
+    font-weight: 700;
+    color: #e6edf3;
+  }
+  .stat-label {
+    font-size: 11px;
+    color: #6e7681;
+    margin-top: 2px;
+  }
 
----
+  .contact-row {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 0.75rem;
+  }
+  .contact-btn {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    padding: 7px 16px;
+    border-radius: 6px;
+    border: 1px solid #30363d;
+    background: #161b22;
+    color: #c9d1d9;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+  }
 
-## 📊 GitHub Stats
+  .footer-mono {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: #3d444d;
+    margin-top: 1.5rem;
+    text-align: center;
+  }
+</style>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7F52FF&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7F52FF&langs_count=6"/>
-</p>
+<div class="gh-root">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7F52FF&fire=7ee787&currStreakLabel=58A6FF" />
-</p>
+  <div class="header-line">// profile.md — last updated March 2026</div>
+  <div class="name">Mohamed Ali Benouarzeg</div>
+  <div class="title-tag">Android Dev · KMP · Kotlin · Jetpack Compose</div>
+  <div class="bio">
+    Building fast, clean, and intuitive mobile apps. I care about architecture, UI feel, and writing Kotlin that reads well. Currently exploring Kotlin Multiplatform to write once, run everywhere.
+  </div>
 
----
+  <div class="section-label">skills</div>
+  <div class="skills-grid">
+    <div class="skill-pill"><span class="dot" style="background:#7f52ff"></span>Kotlin</div>
+    <div class="skill-pill"><span class="dot" style="background:#3ddc84"></span>Android</div>
+    <div class="skill-pill"><span class="dot" style="background:#58a6ff"></span>Jetpack Compose</div>
+    <div class="skill-pill"><span class="dot" style="background:#7f52ff"></span>KMP / CMP</div>
+    <div class="skill-pill"><span class="dot" style="background:#f0883e"></span>Ktor</div>
+    <div class="skill-pill"><span class="dot" style="background:#6db33f"></span>Spring Boot</div>
+    <div class="skill-pill"><span class="dot" style="background:#f05032"></span>Git</div>
+    <div class="skill-pill"><span class="dot" style="background:#8b949e"></span>MVVM · Clean Arch</div>
+    <div class="skill-pill"><span class="dot" style="background:#58a6ff"></span>Retrofit · StateFlow</div>
+    <div class="skill-pill"><span class="dot" style="background:#f24e1e"></span>Figma</div>
+  </div>
 
-## 📫 Let's Connect
+  <div class="section-label">featured projects</div>
+  <div class="projects-grid">
+    <div class="project-card kt">
+      <div class="project-name">ComposeKit</div>
+      <div class="project-desc">A reusable UI component library built with Jetpack Compose, following Material 3.</div>
+      <div class="project-meta">
+        <span><span class="lang-dot" style="background:#7f52ff"></span> Kotlin</span>
+        <span>⭐ 84</span>
+        <span>🍴 12</span>
+      </div>
+    </div>
+    <div class="project-card kmp">
+      <div class="project-name">NoteFlow-KMP</div>
+      <div class="project-desc">Cross-platform notes app using Kotlin Multiplatform and Compose Multiplatform.</div>
+      <div class="project-meta">
+        <span><span class="lang-dot" style="background:#58a6ff"></span> KMP</span>
+        <span>⭐ 61</span>
+        <span>🍴 9</span>
+      </div>
+    </div>
+    <div class="project-card kt">
+      <div class="project-name">KtorAPI-Starter</div>
+      <div class="project-desc">Production-ready Ktor backend template with auth, routing, and PostgreSQL.</div>
+      <div class="project-meta">
+        <span><span class="lang-dot" style="background:#f0883e"></span> Ktor</span>
+        <span>⭐ 43</span>
+        <span>🍴 7</span>
+      </div>
+    </div>
+    <div class="project-card kmp">
+      <div class="project-name">WeatherNow</div>
+      <div class="project-desc">Android weather app showcasing MVVM, Retrofit, and StateFlow in a clean arch setup.</div>
+      <div class="project-meta">
+        <span><span class="lang-dot" style="background:#3ddc84"></span> Android</span>
+        <span>⭐ 29</span>
+        <span>🍴 5</span>
+      </div>
+    </div>
+  </div>
 
-<p align="center">
-  <a href="mailto:mohamedbenouarzeg1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-ali-benouarzeg-3b55582b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mhx.kt">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+  <div class="section-label">github stats</div>
+  <div class="stats-row">
+    <div class="stat-box">
+      <div class="stat-num" style="color:#7f52ff">90%</div>
+      <div class="stat-label">Kotlin usage</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-num" style="color:#7ee787">↑ streak</div>
+      <div class="stat-label">daily commits</div>
+    </div>
+    <div class="stat-box">
+      <div class="stat-num" style="color:#58a6ff">4+</div>
+      <div class="stat-label">public repos</div>
+    </div>
+  </div>
 
-<p align="center">
-  <sub>/* open to collaborations, freelance work, and interesting Kotlin problems */</sub>
-</p>
+  <div class="section-label">contact</div>
+  <div class="contact-row">
+    <a class="contact-btn" href="mailto:mohamedbenouarzeg1@gmail.com">✉ Email</a>
+    <a class="contact-btn" href="https://www.linkedin.com/in/mohamed-ali-benouarzeg-3b55582b2/">in LinkedIn</a>
+    <a class="contact-btn" href="https://instagram.com/mhx.kt">📷 Instagram</a>
+  </div>
+
+  <div class="footer-mono">/* open to collaborations & freelance work */</div>
+</div>
