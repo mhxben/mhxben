@@ -6,9 +6,9 @@
 
 ---
 
-<h3 align="center">🧰 Tech Stack & Tools</h3>
+<h3 align="start">🧰 Tech Stack & Tools</h3>
 
-<p align="center">
+<p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" title="Kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>
   <img src="https://user-images.githubusercontent.com/48350702/136327368-98272ce0-a1c5-4b61-89fc-32f2350a84ed.png" width="48" title="Jetpack Compose"/>
@@ -24,28 +24,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git"/>
 </p>
 
----
 
-<h3 align="center">👨‍💻 Who am I?</h3>
-
-<p align="center">
-  I'm a software developer from Algeria specializing in <strong>native Android development</strong><br/>
-  using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.<br/><br/>
-  I'm currently exploring <strong>Kotlin Multiplatform (KMP)</strong> to build cross-platform apps,<br/>
-  and learning backend development with <strong>Ktor</strong> and <strong>Spring Boot</strong>.<br/><br/>
-  I care about clean architecture, readable code, and apps that feel right to use.
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:mohamedbenouarzeg1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-ali-benouarzeg-3b55582b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mhx.kt">
-    <img src="https://i.pinimg.com/736x/11/04/d6/1104d6c372b3fd0f7550aee9238180d5.jpg"/>
-  </a>
-</p>
