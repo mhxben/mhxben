@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 620 180" width="620" height="180">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P');
+      .title { font-family: 'Press Start 2P', monospace; font-size: 11px; fill: #ffffff; }
+
+      .icon { opacity: 0; animation: pop 0.3s ease forwards; }
+      .i1  { animation-delay: 0.1s; }
+      .i2  { animation-delay: 0.4s; }
+      .i3  { animation-delay: 0.7s; }
+      .i4  { animation-delay: 1.0s; }
+      .i5  { animation-delay: 1.3s; }
+      .i6  { animation-delay: 1.6s; }
+      .i7  { animation-delay: 1.9s; }
+      .i8  { animation-delay: 2.2s; }
+      .i9  { animation-delay: 2.5s; }
+      .i10 { animation-delay: 2.8s; }
+      .i11 { animation-delay: 3.1s; }
+      .i12 { animation-delay: 3.4s; }
+      .i13 { animation-delay: 3.7s; }
+
+      @keyframes pop {
+        0%   { opacity: 0; transform: scale(0.4); }
+        70%  { opacity: 1; transform: scale(1.15); }
+        100% { opacity: 1; transform: scale(1); }
+      }
+
+      .title-anim { opacity: 0; animation: fadein 0.5s ease forwards; animation-delay: 0s; }
+      @keyframes fadein { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="620" height="180" fill="#0d1117" rx="12"/>
+
+  <!-- Title -->
+  <text x="310" y="30" text-anchor="middle" class="title title-anim">🧰 Tech Stack &amp; Tools</text>
+
+  <!-- Row 1: 7 icons, centered -->
+  <!-- Kotlin -->
+  <image class="icon i1"  href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"        x="30"  y="50" width="44" height="44"/>
+  <!-- Java -->
+  <image class="icon i2"  href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"            x="90"  y="50" width="44" height="44"/>
+  <!-- Jetpack Compose -->
+  <image class="icon i3"  href="https://user-images.githubusercontent.com/48350702/136327368-98272ce0-a1c5-4b61-89fc-32f2350a84ed.png" x="150" y="50" width="44" height="44"/>
+  <!-- Android -->
+  <image class="icon i4"  href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"      x="210" y="50" width="44" height="44"/>
+  <!-- Spring -->
+  <image class="icon i5"  href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"        x="270" y="50" width="44" height="44"/>
+  <!-- Ktor -->
+  <image class="icon i6"  href="https://icon.icepanel.io/Technology/svg/Ktor.svg"                                     x="330" y="50" width="44" height="44"/>
+  <!-- Figma -->
+  <image class="icon i7"  href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"          x="390" y="50" width="44" height="44"/>
+
+  <!-- Row 2: 6 icons, centered -->
+  <!-- Gradle -->
+  <image class="icon i8"  href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"        x="60"  y="115" width="44" height="44"/>
+  <!-- Maven -->
+  <image class="icon i9"  href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"          x="120" y="115" width="44" height="44"/>
+  <!-- IntelliJ -->
+  <image class="icon i10" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"    x="180" y="115" width="44" height="44"/>
+  <!-- Android Studio -->
+  <image class="icon i11" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" x="240" y="115" width="44" height="44"/>
+  <!-- Docker -->
+  <image class="icon i12" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"        x="300" y="115" width="44" height="44"/>
+  <!-- Git -->
+  <image class="icon i13" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"              x="360" y="115" width="44" height="44"/>
+</svg>
