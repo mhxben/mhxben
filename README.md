@@ -11,9 +11,9 @@
 
 ---
 
-<h3 align="start">🧰 Tech Stack & Tools</h3>
+<h3 align="center">🧰 Tech Stack & Tools</h3>
 
-<p align="start">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" title="Kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>
   <img src="https://user-images.githubusercontent.com/48350702/136327368-98272ce0-a1c5-4b61-89fc-32f2350a84ed.png" width="48" title="Jetpack Compose"/>
