@@ -78,12 +78,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7F52FF&icon_color=58A6FF&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7F52FF&langs_count=6"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mhxify&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7F52FF&icon_color=58A6FF&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhxify&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7F52FF&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7F52FF&fire=7ee787&currStreakLabel=58A6FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhxify&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7F52FF&fire=7ee787&currStreakLabel=58A6FF"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@
   <a href="https://www.linkedin.com/in/mohamed-ali-benouarzeg-3b55582b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/mhx.kt">
+  <a href="https://instagram.com/mhxify">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
