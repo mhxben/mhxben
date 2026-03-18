@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" title="Kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>
-  <img src="https://developer.android.com/images/jetpack/compose/compose-logo.svg" width="48" title="Jetpack Compose"/>
+  <img src="https://user-images.githubusercontent.com/48350702/136327368-98272ce0-a1c5-4b61-89fc-32f2350a84ed.png" width="48" title="Jetpack Compose"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" title="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" title="Spring Boot"/>
   <img src="https://ktor.io/assets/ktor-logo.svg" width="48" title="Ktor"/>
