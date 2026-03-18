@@ -1,4 +1,7 @@
-<img src="https://i.ibb.co/VYqwxBpG/mhx.png" align = "center" title="mhx."/>
+<p align="center">
+  <img src="https://i.ibb.co/VYqwxBpG/mhx.png" title="mhx."/>
+</p>
+
 
 <h1 align="center">Mohamed Ali Benouarzeg</h1>
 
