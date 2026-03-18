@@ -1,94 +1,37 @@
-<!-- Animated typing header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Mohamed+Ali+%F0%9F%91%8B;Android+%26+KMP+Developer;Kotlin+%7C+Jetpack+Compose+%7C+Clean+Arch;Building+apps+that+feel+right." alt="Typing SVG" />
-</p>
+<h1 align="center">Mohamed Ali Benouarzeg</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Android%20%26%20KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Based_in-Algeria%20🇩🇿-3DDC84?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open_to-Collaborations-58A6FF?style=flat-square"/>
+  <em>Native Android & Kotlin Multiplatform Developer · Algeria 🇩🇿</em><br/>
+  <em>Building fast, clean, and intuitive apps with Kotlin, Jetpack Compose, and modern backend tools.</em>
 </p>
 
 ---
 
-## `whoami`
-
-> Native Android & Kotlin Multiplatform developer from Algeria 🇩🇿
-> I build fast, clean, and intuitive apps — and I care deeply about architecture and UI feel.
-
-- 📱 Specializing in **modern Android** with Kotlin & Jetpack Compose
-- 🌍 Exploring **KMP / Compose Multiplatform** — one codebase, every platform
-- 🧠 Learning backend with **Ktor** and **Spring Boot**
-- 🎯 Ask me about **MVVM**, **Clean Architecture**, **StateFlow**, or **Retrofit**
-
----
-
-## 🧰 Tech Stack
-
-### Mobile & Multiplatform
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Tooling & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/YOUR_USERNAME/YOUR_REPO">📦 Project One</a></h3>
-      <p>Brief description — what it does and what makes it interesting architecturally.</p>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/YOUR_USERNAME/YOUR_REPO">🌍 Project Two</a></h3>
-      <p>Brief description — mention KMP, MVVM, or any standout architectural decision.</p>
-      <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/YOUR_USERNAME/YOUR_REPO">⚡ Project Three</a></h3>
-      <p>Brief description — backend, API, or full-stack if applicable.</p>
-      <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/YOUR_USERNAME/YOUR_REPO">🎨 Project Four</a></h3>
-      <p>Brief description — UI-focused, animations, or design system work.</p>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">🧰 Tech Stack</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mhxify&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7F52FF&icon_color=58A6FF&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhxify&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7F52FF&langs_count=6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhxify&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7F52FF&fire=7ee787&currStreakLabel=58A6FF"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" title="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="48" title="Gradle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" title="Figma"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+<h3 align="center">👨‍💻 Who am I?</h3>
+
+<p align="center">
+  I'm a software developer from Algeria specializing in <strong>native Android development</strong><br/>
+  using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.<br/><br/>
+  I'm currently exploring <strong>Kotlin Multiplatform (KMP)</strong> to build cross-platform apps,<br/>
+  and learning backend development with <strong>Ktor</strong> and <strong>Spring Boot</strong>.<br/><br/>
+  I care about clean architecture, readable code, and apps that feel right to use.
+</p>
+
+---
 
 <p align="center">
   <a href="mailto:mohamedbenouarzeg1@gmail.com">
@@ -97,11 +40,7 @@
   <a href="https://www.linkedin.com/in/mohamed-ali-benouarzeg-3b55582b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/mhxify">
+  <a href="https://instagram.com/mhx.kt">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <sub>/* open to collaborations, open source contributions, and interesting Kotlin problems */</sub>
 </p>
