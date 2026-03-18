@@ -1,6 +1,6 @@
-<h1 align="start">Mohamed Ali Benouarzeg</h1>
+<h1 align="center">Mohamed Ali Benouarzeg</h1>
 
-<p align="start">
+<p align="center">
   <em>Android & Kotlin Multiplatform Developer</em><br/>
 </p>
 
