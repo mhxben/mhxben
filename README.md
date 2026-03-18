@@ -1,8 +1,7 @@
 <h1 align="center">Mohamed Ali Benouarzeg</h1>
 
 <p align="center">
-  <em>Native Android & Kotlin Multiplatform Developer · Algeria 🇩🇿</em><br/>
-  <em>Building fast, clean, and intuitive apps with Kotlin, Jetpack Compose, and modern backend tools.</em>
+  <em>Android & Kotlin Multiplatform Developer</em><br/>
 </p>
 
 ---
@@ -47,6 +46,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/mhx.kt">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://i.pinimg.com/736x/11/04/d6/1104d6c372b3fd0f7550aee9238180d5.jpg"/>
   </a>
 </p>
