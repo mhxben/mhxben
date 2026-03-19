@@ -26,7 +26,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git"/>
 </p>
 
-<img src="techstack.svg" alt="Tech Stack & Tools"/>
-
-
 ---
